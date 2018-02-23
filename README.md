@@ -1,4 +1,4 @@
-d# Printing a Tic Tac Toe Board
+# Printing a Tic Tac Toe Board
 
 ## Overview
 
